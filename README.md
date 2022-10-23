@@ -20,5 +20,5 @@
     cat /etc/passwd | grep ravi
 
 ```
-![alt text](https://github.com/nourmami//blob/master/src/readme-images/1.png "image 1")
+![alt text](https://github.com/nourmami/KodeKloud-writeups/blob/master/kodekloud/2-2.png "image 1")
 
