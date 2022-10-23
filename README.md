@@ -1,4 +1,8 @@
-#KodeKoud Architecture
+# KodeKoud Architecture
+
+
+![alt text](https://github.com/nourmami/KodeKloud-writeups/blob/master/kodekloud/0.png "image 1")
+
 
 
 
@@ -21,4 +25,6 @@
 
 ```
 ![alt text](https://github.com/nourmami/KodeKloud-writeups/blob/master/kodekloud/2-2.png "image 1")
+
+
 
