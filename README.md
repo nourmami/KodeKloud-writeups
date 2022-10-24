@@ -8,6 +8,7 @@
 ## challenge 1
 
 `Question` :  During the daily standup, it was pointed out that the timezone across Nautilus Application Servers in Stratos Datacenter doesn't match with that of the local datacenter's timezone, which is Africa/Akra. 
+
 ```shell
 
     #ssh to tony app01
