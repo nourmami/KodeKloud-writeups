@@ -51,9 +51,9 @@
 ## Challenge 3
 
 `Question` 
-![alt text](https://github.com/nourmami/KodeKloud-writeups/blob/master/kodekloud/3-1.png "image 2")
+![alt text](https://github.com/nourmami/KodeKloud-writeups/blob/master/kodekloud/3-1.png "image 3")
 
-    #ssh to tony app01
+    #ssh to connect to user tony app01
     ssh tony@stapp01
     
     #switch to root without entering root passwd.
@@ -65,6 +65,6 @@
     #check configuration
     ./tmp/xfusioncorp.sh
 ```
-![alt text](https://github.com/nourmami/KodeKloud-writeups/blob/master/kodekloud/3-2.png "image 2")
+![alt text](https://github.com/nourmami/KodeKloud-writeups/blob/master/kodekloud/3-2.png "image 3")
 
 
